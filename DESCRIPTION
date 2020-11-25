@@ -1,0 +1,43 @@
+#INSTALASI TERMUX TERLEBIH DAHULU !
+
+$ pkg install python
+
+$ pkg install git
+
+$ pkg install python-pip
+
+$ pip install style
+
+$ pip install requests
+
+$ pip install websocket-client
+
+$ pip install fake_useragent
+
+# satu lagi #
+
+$ termux-setup-storage 
+{LALU TEKAN IZINKAN} GUNA SDCARD SEMISAL KALIAN DOWNLOAD FILE NYA
+
+kalau udah instalasi termux kalian ketik git clone ,Dan kalian copas Link nya in description Yt !
+
+$ git clone https://github.com/bkey2/Autofan.git
+
+$ cd Autofan
+
+$ python 8fitur.py
+
+
+
+{[done]} SILAHKAN SELAMAT MENIKMATI TOLLS NYA!😊
+PASSWORD IN DESCRIPTION VUDEO YT ↓
+© YT CHANNELS YANZ OI OI
+
+ig promosi: @yayan_funny
+
+rm -rf File 
+contoh menghapus file download an
+rm -rf Autofan
+done tuh menghapus..!
+
+===================================================================================================
